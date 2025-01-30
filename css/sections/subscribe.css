@@ -84,3 +84,9 @@
 
   cursor: pointer;
 }
+
+
+.subscription__form button:hover{
+  background-color: var(--primary-color);
+  border: 1px solid #111;
+}

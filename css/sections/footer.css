@@ -43,6 +43,10 @@
   cursor: pointer;
 }
 
+.footer__nav li:hover {
+  color: var(--primary-color);
+}
+
 .footer__social li {
   width: 42px;
   height: 42px;

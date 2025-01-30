@@ -95,6 +95,12 @@
   line-height: 23px;
 }
 
+.hero-content__order-button:hover {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+
 .hero-content__play-button {
   border: none;
   outline: none;
