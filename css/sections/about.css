@@ -67,6 +67,10 @@
   cursor: pointer;
 }
 
+.about-us__button:hover{
+  background: var(--primary-color);
+}
+
 .about-us__button img {
   object-fit: contain;
   margin-left: 32px;

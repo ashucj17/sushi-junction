@@ -60,3 +60,7 @@
 
   object-fit: contain;
 }
+
+.footer__social li img:hover {
+  filter: brightness(0.8);
+}
